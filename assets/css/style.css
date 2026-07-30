@@ -157,6 +157,19 @@ a:focus-visible, button:focus-visible {
   padding: 4px 2px;
 }
 .site-nav a:hover { color: var(--ink); }
+.header-cta {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: 999px;
+  padding: 8px 16px;
+  background: linear-gradient(120deg, var(--a1), var(--a2) 55%, var(--a3));
+  box-shadow: 0 4px 14px color-mix(in oklab, var(--a2) 35%, transparent);
+  transition: .2s;
+}
+.header-cta:hover { filter: brightness(1.08); }
 .langs {
   display: inline-flex;
   gap: 4px;
