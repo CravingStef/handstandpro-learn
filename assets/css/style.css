@@ -282,8 +282,13 @@ thead th:first-child, tbody td:first-child { width: 26%; min-width: 165px; }
 .signed {
   margin: 26px 0;
   padding: 2px 0 2px 20px;
-  border-left: 2px solid transparent;
-  border-image: linear-gradient(180deg, var(--a1), var(--a2), var(--a3)) 1;
+  /* Le filet est un fond de 2 px et non un border-image : ce dernier ne
+     s'affichait pas sur un seul côté dans certains navigateurs, et un bord
+     transparent qui ne se peint pas laisse l'encart sans sa marque. */
+  background-image: linear-gradient(180deg, var(--a1), var(--a2), var(--a3));
+  background-repeat: no-repeat;
+  background-size: 2px 100%;
+  background-position: left top;
 }
 .signed p { color: var(--ink-2); }
 .signed p:last-of-type { margin-bottom: 0; }
