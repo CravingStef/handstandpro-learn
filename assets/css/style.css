@@ -448,6 +448,16 @@ thead th:first-child, tbody td:first-child { width: 26%; min-width: 165px; }
   text-decoration: none;
 }
 .footer-links a:hover { color: var(--ink); }
+/* Ligne de sécurité, sur toutes les pages. Discrète mais lisible : elle doit
+   être vue sans concurrencer le contenu, d'où une largeur limitée et un gris
+   plus clair que les liens qui la précèdent. */
+.footer-legal {
+  max-width: 620px;
+  margin: 14px auto 0;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ink-3);
+}
 .footer-note { color: var(--ink-3); font-size: 13px; margin-top: 14px; }
 
 @media (prefers-reduced-motion: reduce) {
