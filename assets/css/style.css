@@ -170,28 +170,67 @@ a:focus-visible, button:focus-visible {
   transition: .2s;
 }
 .header-cta:hover { filter: brightness(1.08); }
+/* ---- Sélecteur de langue ----
+   Un menu déroulant, et non quatre pastilles côte à côte : à quatre langues,
+   la rangée passait à la ligne sous l'en-tête. Le bouton porte la langue
+   courante, le panneau ne liste que les autres. Bâti sur <details>, donc sans
+   une ligne de JavaScript et accessible au clavier par construction. */
 .langs {
+  position: relative;
+}
+.langs summary {
   display: inline-flex;
-  gap: 4px;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  list-style: none;
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--ink);
   background: var(--glass);
   border: 1px solid var(--edge);
   border-radius: 999px;
-  padding: 4px;
+  padding: 7px 12px 7px 14px;
+  transition: .2s;
 }
-.langs a {
+.langs summary::-webkit-details-marker { display: none; }
+.langs summary::after {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-right: 1.5px solid var(--ink-3);
+  border-bottom: 1.5px solid var(--ink-3);
+  transform: translateY(-2px) rotate(45deg);
+  transition: transform .2s;
+}
+.langs[open] summary::after { transform: translateY(1px) rotate(-135deg); }
+.langs summary:hover { border-color: var(--ink-3); }
+.langs summary:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+.langs nav {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  padding: 6px;
+  border-radius: 14px;
+  border: 1px solid var(--edge);
+  background: var(--bg-1);
+  box-shadow: var(--shadow);
+}
+.langs nav a {
+  white-space: nowrap;
   font-weight: 600;
   font-size: 13px;
   color: var(--ink-2);
   text-decoration: none;
-  border-radius: 999px;
-  padding: 5px 13px;
+  border-radius: 9px;
+  padding: 7px 12px;
   transition: .2s;
 }
-.langs a[aria-current="page"] {
-  color: #fff;
-  background: linear-gradient(90deg, var(--a1), var(--a2));
-}
-.langs a:not([aria-current]):hover { color: var(--ink); }
+.langs nav a:hover { color: var(--ink); background: var(--glass-strong); }
 
 /* ---- Structure ---- */
 main {
