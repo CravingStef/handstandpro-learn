@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://learn.handstandpro.app/sitemap.xml
+Sitemap: https://handstandpro.app/sitemap.xml

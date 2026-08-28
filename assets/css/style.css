@@ -380,6 +380,21 @@ thead th:first-child, tbody td:first-child { width: 26%; min-width: 165px; }
 
 .backlink { margin-top: 22px; font-size: 15px; color: var(--ink-3); }
 
+/* ---- Fil d'Ariane ---- */
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px;
+  margin: 0 0 14px;
+  font-size: 13.5px;
+  color: var(--ink-3);
+}
+.breadcrumb a { color: var(--ink-3); text-decoration: none; }
+.breadcrumb a:hover { color: var(--ink); text-decoration: underline; }
+.breadcrumb a::after { content: "\203a"; margin: 0 6px; color: var(--ink-3); }
+.breadcrumb span[aria-current] { color: var(--ink-2); }
+
 /* ---- Hubs ---- */
 .hero { padding: clamp(10px, 3vw, 30px) 4px clamp(14px, 3vw, 26px); }
 .hero h1 { font-size: clamp(26px, 5.5vw, 40px); }
