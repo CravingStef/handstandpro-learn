@@ -364,6 +364,10 @@ thead th:first-child, tbody td:first-child { width: 26%; min-width: 165px; }
   margin-bottom: 8px;
 }
 .cta p:last-of-type { margin-bottom: 18px; }
+.cta-review { margin: 4px 0 20px; padding-left: 14px; border-left: 2px solid var(--a2); }
+.cta-review blockquote { margin: 0; }
+.cta .cta-review p { margin: 0 0 4px; color: var(--ink); font-style: italic; }
+.cta-review figcaption { font-size: 13.5px; color: var(--ink-3); }
 .btn {
   display: inline-block;
   padding: 13px 24px;
