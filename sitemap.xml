@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://learn.handstandpro.app/fr/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -71,6 +71,298 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/aprender-parada-de-manos/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/aprender-parada-de-mao/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/learn-handstand/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/comment-faire-un-handstand-debutant/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/comment-faire-un-handstand-debutant/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/como-hacer-parada-de-manos-principiantes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/como-fazer-parada-de-mao-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue face au mur (chest-to-wall)</video:title>
+      <video:description>La position de référence du débutant : mains à une vingtaine de centimètres du mur, seuls les orteils le touchent, les épaules repoussent le sol.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Cercles de poignets</video:title>
+      <video:description>Le premier exercice de tout échauffement handstand : mobiliser les poignets avant d'y mettre le poids du corps.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue hollow (corps creux)</video:title>
+      <video:description>La forme gainée sur laquelle repose tout handstand, travaillée au sol, bas du dos plaqué.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Planche au mur</video:title>
+      <video:description>Pieds sur le mur à hauteur de hanches, poids porté vers les mains : la première charge au-dessus de la tête pour les épaules.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Sortie groupée du mur</video:title>
+      <video:description>La façon la plus douce d'apprendre à redescendre : depuis une position groupée au mur, une main s'écarte, puis les pieds suivent.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Montées au mur (wall walks)</video:title>
+      <video:description>Depuis une planche pieds au mur, les mains se rapprochent pendant que les pieds montent, puis on redescend en contrôle.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Sortie en roue (cartwheel)</video:title>
+      <video:description>Quand le handstand passe la verticale, une main se pose sur le côté, les hanches pivotent et on retombe sur ses pieds.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Décollement des orteils</video:title>
+      <video:description>Face au mur, seuls les orteils le touchent : on les décolle en poussant dans les doigts et on tient l'équilibre trouvé.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/comment-faire-un-handstand-debutant/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/como-hacer-parada-de-manos-principiantes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/como-fazer-parada-de-mao-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Chest-to-wall hold</video:title>
+      <video:description>The reference position for beginners: hands about 20 cm from the wall, only the toes touching, shoulders pushing the floor away.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wrist circles</video:title>
+      <video:description>The first drill of every handstand warm-up: mobilise the wrists before any bodyweight goes on them.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Hollow body hold</video:title>
+      <video:description>The straight-body shape every handstand rests on, practised on the floor with the lower back pressed down.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall plank</video:title>
+      <video:description>Feet on the wall at hip height and weight biased onto the hands: the first overhead load for the shoulders.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall tuck bail</video:title>
+      <video:description>The gentlest way to learn coming down: from a tuck at the wall, one hand steps away, then the feet follow.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall walks</video:title>
+      <video:description>From a plank with the feet on the wall, walk the hands in as the feet climb, then walk back down in control.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Cartwheel bail</video:title>
+      <video:description>When the handstand goes past vertical, one hand steps to the side, the hips turn and you land on your feet.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Toe pulls</video:title>
+      <video:description>Facing the wall with only the toes touching, pull them off with the fingers and hold the balance you find.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/como-hacer-parada-de-manos-principiantes/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/comment-faire-un-handstand-debutant/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/como-hacer-parada-de-manos-principiantes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/como-fazer-parada-de-mao-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada de frente a la pared (chest to wall)</video:title>
+      <video:description>La posición de referencia del principiante: manos a unos 20 cm de la pared, solo las puntas de los pies la tocan, los hombros empujan el suelo.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Círculos de muñeca</video:title>
+      <video:description>El primer ejercicio de cualquier calentamiento de parada de manos: movilizar las muñecas antes de cargarles el peso del cuerpo.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posición hollow (cuerpo hueco)</video:title>
+      <video:description>La forma de cuerpo firme sobre la que se apoya toda parada de manos, trabajada en el suelo con la zona lumbar pegada.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Plancha en la pared</video:title>
+      <video:description>Pies en la pared a la altura de la cadera y el peso llevado hacia las manos: la primera carga por encima de la cabeza para los hombros.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Salida agrupada desde la pared</video:title>
+      <video:description>La forma más suave de aprender a bajar: desde una posición agrupada en la pared, una mano se aparta y luego siguen los pies.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Caminatas por la pared (wall walks)</video:title>
+      <video:description>Desde una plancha con los pies en la pared, las manos se acercan mientras los pies suben, y luego se baja con control.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Salida en rueda lateral (cartwheel)</video:title>
+      <video:description>Cuando la parada de manos pasa de la vertical, una mano se apoya a un lado, la cadera gira y se cae de pie.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Despegue de los pies (toe pulls)</video:title>
+      <video:description>De frente a la pared y solo con las puntas de los pies tocándola: se despegan empujando con los dedos y se aguanta el equilibrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/como-fazer-parada-de-mao-iniciantes/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/comment-faire-un-handstand-debutant/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/como-hacer-parada-de-manos-principiantes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/como-fazer-parada-de-mao-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/how-to-do-a-handstand-for-beginners/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada de frente para a parede (chest to wall)</video:title>
+      <video:description>A posição de referência do iniciante: mãos a uns 20 cm da parede, só as pontas dos pés encostam, os ombros empurram o chão.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Círculos de punho</video:title>
+      <video:description>O primeiro exercício de todo aquecimento de parada de mão: mobilizar os punhos antes de colocar o peso do corpo neles.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posição hollow (corpo oco)</video:title>
+      <video:description>A forma de corpo firme em que toda parada de mão se apoia, treinada no chão com a lombar colada.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Prancha na parede</video:title>
+      <video:description>Pés na parede na altura do quadril e o peso levado para as mãos: a primeira carga acima da cabeça para os ombros.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Saída em tuck na parede</video:title>
+      <video:description>O jeito mais suave de aprender a descer: de uma posição grupada na parede, uma mão se afasta e depois os pés acompanham.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Caminhadas pela parede (wall walks)</video:title>
+      <video:description>De uma prancha com os pés na parede, as mãos se aproximam enquanto os pés sobem, e depois se desce com controle.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Saída de estrela (cartwheel)</video:title>
+      <video:description>Quando a parada de mão passa da vertical, uma mão vai para o lado, o quadril gira e você cai de pé.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Soltar as pontas dos pés (toe pulls)</video:title>
+      <video:description>De frente para a parede, só com as pontas dos pés encostadas: elas se soltam empurrando com os dedos e se segura o equilíbrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/combien-de-temps-apprendre-handstand/</loc>
