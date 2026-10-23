@@ -802,4 +802,150 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/aviso-de-seguranca/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/safety-notice/"/>
   </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Cercles de poignets</video:title>
+      <video:description>Le premier exercice de chaque séance, avant de mettre le poids du corps sur les poignets.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Décollement des orteils</video:title>
+      <video:description>Face au mur, tu décolles les orteils en poussant dans les doigts : ton premier vrai équilibre.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/montees-au-mur/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Montées au mur</video:title>
+      <video:description>Arriver face au mur sans kick-up, en marchant avec les pieds pendant que les mains se rapprochent.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/planche-au-mur/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/planche-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Planche au mur</video:title>
+      <video:description>Pieds sur le mur à hauteur de hanches : la première fois que tes épaules portent ton poids au-dessus de la tête.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/sortie-en-roue/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Sortie en roue</video:title>
+      <video:description>La sortie que tu utiliseras à chaque tentative sans mur : une main sur le côté, les hanches pivotent.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Sortie groupée du mur</video:title>
+      <video:description>La façon la plus douce d'apprendre à redescendre, depuis une position groupée contre le mur.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/vlmcHX4EtmQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue complète (pieds joints)</video:title>
+      <video:description>Le handstand tel qu'on l'imagine : jambes serrées du début à la fin, le corps empilé des mains aux pieds.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/vlmcHX4EtmQ</video:player_loc>
+      <video:duration>33</video:duration>
+      <video:publication_date>2026-09-18T03:02:38-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-split/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/V5QftNcyJ8U/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue en split (pieds décalés)</video:title>
+      <video:description>Le handstand sans mur, une jambe vers l'avant et l'autre vers l'arrière, en ciseau.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/V5QftNcyJ8U</video:player_loc>
+      <video:duration>21</video:duration>
+      <video:publication_date>2026-09-17T00:29:11-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue face au mur</video:title>
+      <video:description>Le ventre face au mur, seuls les orteils le touchent : la position où tu apprends la bonne ligne.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/tenue-hollow/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue hollow</video:title>
+      <video:description>La forme du handstand, travaillée allongé sur le dos, bas du dos plaqué au sol.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+  </url>
 </urlset>
