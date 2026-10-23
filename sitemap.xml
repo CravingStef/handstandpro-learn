@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://learn.handstandpro.app/fr/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -723,6 +723,12 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/preguntas-frecuentes-handstand/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/perguntas-frequentes-handstand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/handstand-faq/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/muscles-bienfaits-handstand/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/muscles-bienfaits-handstand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/muscles-bienfaits-handstand/"/>
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/stephane-perrin/</loc>
