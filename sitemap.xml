@@ -804,9 +804,11 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
   </url>
   <url>
@@ -814,6 +816,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
@@ -829,6 +833,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-as-pontas-dos-pes/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
@@ -844,6 +850,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
@@ -859,6 +867,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha-na-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
@@ -874,6 +884,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
@@ -889,6 +901,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-em-tuck-na-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
@@ -904,6 +918,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/vlmcHX4EtmQ/hqdefault.jpg</video:thumbnail_loc>
@@ -919,6 +935,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-split/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/V5QftNcyJ8U/hqdefault.jpg</video:thumbnail_loc>
@@ -934,6 +952,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
@@ -949,6 +969,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-hollow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
@@ -961,9 +983,11 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
   </url>
   <url>
@@ -971,6 +995,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
@@ -986,6 +1012,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
@@ -1001,6 +1029,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/vlmcHX4EtmQ/hqdefault.jpg</video:thumbnail_loc>
@@ -1016,6 +1046,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-hollow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
@@ -1031,6 +1063,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-split/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/V5QftNcyJ8U/hqdefault.jpg</video:thumbnail_loc>
@@ -1046,6 +1080,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-as-pontas-dos-pes/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
@@ -1061,6 +1097,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha-na-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
@@ -1076,6 +1114,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-em-tuck-na-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
@@ -1091,6 +1131,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
@@ -1106,6 +1148,8 @@
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
@@ -1114,6 +1158,364 @@
       <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
       <video:duration>24</video:duration>
       <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Caminatas por la pared</video:title>
+      <video:description>Llegar a la pared sin kick up, subiendo con los pies mientras las manos se acercan.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Círculos de muñeca</video:title>
+      <video:description>El primer ejercicio de cada sesión, antes de cargar el peso del cuerpo sobre las muñecas.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-as-pontas-dos-pes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Despegue de los pies</video:title>
+      <video:description>De frente a la pared, despegas las puntas de los pies empujando con los dedos: tu primer equilibrio de verdad.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/vlmcHX4EtmQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada completa (pies juntos)</video:title>
+      <video:description>La parada de manos tal como la imaginas: piernas juntas de principio a fin, el cuerpo apilado de las manos a los pies.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/vlmcHX4EtmQ</video:player_loc>
+      <video:duration>33</video:duration>
+      <video:publication_date>2026-09-18T03:02:38-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada de frente a la pared</video:title>
+      <video:description>El pecho de frente a la pared, solo las puntas de los pies la tocan: la posición donde aprendes la línea correcta.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/parada-en-split/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/V5QftNcyJ8U/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada en split</video:title>
+      <video:description>La parada de manos sin pared, con una pierna hacia delante y la otra hacia atrás.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/V5QftNcyJ8U</video:player_loc>
+      <video:duration>21</video:duration>
+      <video:publication_date>2026-09-17T00:29:11-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Plancha en la pared</video:title>
+      <video:description>Pies en la pared a la altura de la cadera: la primera vez que los hombros cargan tu peso por encima de la cabeza.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/posicion-hollow/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posición hollow (cuerpo hueco)</video:title>
+      <video:description>La forma de la parada de manos, trabajada boca arriba con la zona lumbar pegada al suelo.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-em-tuck-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Salida agrupada desde la pared</video:title>
+      <video:description>La forma más suave de aprender a bajar, desde una posición agrupada contra la pared.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Salida en rueda lateral</video:title>
+      <video:description>La salida que usarás en cada intento sin pared: una mano a un lado, la cadera gira.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-walks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OpNey5Lp3Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Caminhadas pela parede</video:title>
+      <video:description>Chegar na parede sem kick up, subindo com os pés enquanto as mãos se aproximam.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OpNey5Lp3Bw</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-13T09:39:40-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zo1FMNl5ouQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Círculos de punho</video:title>
+      <video:description>O primeiro exercício de cada treino, antes de colocar o peso do corpo sobre os punhos.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/vlmcHX4EtmQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada completa (pés juntos)</video:title>
+      <video:description>A parada de mão como você imagina: pernas juntas do começo ao fim, o corpo empilhado das mãos aos pés.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/vlmcHX4EtmQ</video:player_loc>
+      <video:duration>33</video:duration>
+      <video:publication_date>2026-09-18T03:02:38-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/OYK0sNssfOo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada de frente para a parede</video:title>
+      <video:description>O peito de frente para a parede, só as pontas dos pés encostam: a posição em que você aprende a linha certa.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
+      <video:duration>32</video:duration>
+      <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/parada-em-split/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/V5QftNcyJ8U/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada em split</video:title>
+      <video:description>A parada de mão sem parede, com uma perna para a frente e a outra para trás.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/V5QftNcyJ8U</video:player_loc>
+      <video:duration>21</video:duration>
+      <video:publication_date>2026-09-17T00:29:11-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/posicao-hollow/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kdD7tEgEji4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posição hollow (corpo oco)</video:title>
+      <video:description>A forma da parada de mão, treinada de barriga para cima com a lombar colada no chão.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/prancha-na-parede/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-plank/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ip_TEA8Rk0o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Prancha na parede</video:title>
+      <video:description>Pés na parede na altura do quadril: a primeira vez que os ombros carregam o seu peso acima da cabeça.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NKKAtcaK1fc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Saída de estrela</video:title>
+      <video:description>A saída que você vai usar em cada tentativa sem parede: uma mão para o lado, o quadril gira.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NKKAtcaK1fc</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-14T15:44:52-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/saida-em-tuck-na-parede/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/saida-em-tuck-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-bail/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HyJJlobXncU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Saída em tuck na parede</video:title>
+      <video:description>O jeito mais suave de aprender a descer, a partir de uma posição grupada contra a parede.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HyJJlobXncU</video:player_loc>
+      <video:duration>20</video:duration>
+      <video:publication_date>2026-09-14T15:40:01-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/soltar-as-pontas-dos-pes/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-as-pontas-dos-pes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6yR8yc_5fn8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Soltar as pontas dos pés</video:title>
+      <video:description>De frente para a parede, você solta as pontas dos pés empurrando com os dedos: o seu primeiro equilíbrio de verdade.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
+      <video:duration>53</video:duration>
+      <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
     </video:video>
   </url>
 </urlset>
