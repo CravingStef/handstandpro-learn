@@ -846,6 +846,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oIqkBkIuAx4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Flexion des poignets</video:title>
+      <video:description>Mains tournées vers l'arrière, paumes à plat : le sens inverse, celui qui équilibre tout le travail en extension.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oIqkBkIuAx4</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T09:22:27-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
@@ -894,6 +908,20 @@
       <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
       <video:duration>26</video:duration>
       <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZRSY3m6CZRM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Rotations sur les poignets</video:title>
+      <video:description>Mains posées, bras tendus, des cercles de plus en plus grands : la mise en charge progressive des poignets.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/ZRSY3m6CZRM</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-12T09:31:14-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
