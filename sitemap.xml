@@ -804,7 +804,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -849,7 +849,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Levées de jambes en pike</video:title>
@@ -948,7 +951,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/mhzbuADnffM/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Tenue en pike au mur</video:title>
@@ -962,7 +968,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/j2H30Urwn5w/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Tenue en pike surélevée</video:title>
@@ -1025,7 +1034,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1067,6 +1076,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/elevated-pike-hold/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/j2H30Urwn5w/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Elevated pike hold</video:title>
+      <video:description>Feet on a box, hands on the floor: the higher the support, the closer you are to a handstand.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/j2H30Urwn5w</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-10-20T23:41:48-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/full-hold/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
@@ -1101,6 +1127,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/pike-leg-raises/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Pike leg raises</video:title>
+      <video:description>Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/split-handstand/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
@@ -1132,6 +1175,23 @@
       <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
       <video:duration>53</video:duration>
       <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wall-pike-hold/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/mhzbuADnffM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall pike hold</video:title>
+      <video:description>Body folded at a right angle, feet on the wall at hip height: the position where your shoulders start to carry.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/mhzbuADnffM</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-10-20T23:40:12-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1204,7 +1264,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1260,6 +1320,23 @@
       <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
       <video:duration>53</video:duration>
       <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Elevaciones de piernas en pike</video:title>
+      <video:description>Con las piernas estiradas en el suelo, las despegas unos centímetros: la compresión, la que prepara el press.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1331,6 +1408,40 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/mhzbuADnffM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posición en pike contra la pared</video:title>
+      <video:description>El cuerpo doblado en ángulo recto, pies en la pared a la altura de la cadera: la posición donde los hombros empiezan a cargar.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/mhzbuADnffM</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-10-20T23:40:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/j2H30Urwn5w/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posición en pike elevada</video:title>
+      <video:description>Los pies en un cajón, las manos en el suelo: cuanto más alto el apoyo, más cerca estás de la parada.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/j2H30Urwn5w</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-10-20T23:41:48-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/posicion-hollow/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
@@ -1383,7 +1494,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1422,6 +1533,23 @@
       <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
       <video:duration>24</video:duration>
       <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Elevações de pernas em pike</video:title>
+      <video:description>Com as pernas esticadas no chão, você as tira do chão alguns centímetros: a compressão, a que prepara o press.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1473,6 +1601,40 @@
       <video:player_loc>https://www.youtube.com/embed/V5QftNcyJ8U</video:player_loc>
       <video:duration>21</video:duration>
       <video:publication_date>2026-09-17T00:29:11-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/j2H30Urwn5w/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posição em pike elevada</video:title>
+      <video:description>Os pés num caixote, as mãos no chão: quanto mais alto o apoio, mais perto você está da parada.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/j2H30Urwn5w</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-10-20T23:41:48-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/mhzbuADnffM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Posição em pike na parede</video:title>
+      <video:description>O corpo dobrado em ângulo reto, pés na parede na altura do quadril: a posição em que os ombros começam a carregar.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/mhzbuADnffM</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-10-20T23:40:12-07:00</video:publication_date>
     </video:video>
   </url>
   <url>

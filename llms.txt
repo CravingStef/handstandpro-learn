@@ -26,10 +26,13 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Handstand exercises](https://learn.handstandpro.app/en/exercises/): The Handstand Pro app's exercises on video, with the steps to do them and the mistakes to avoid.
 - [Cartwheel bail](https://learn.handstandpro.app/en/exercises/cartwheel-bail/): The exit you'll use on every freestanding attempt: a hand to the side, the hips turn.
 - [Chest-to-wall hold](https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/): Chest facing the wall, only the toes touching: the position where you learn the right line.
+- [Elevated pike hold](https://learn.handstandpro.app/en/exercises/elevated-pike-hold/): Feet on a box, hands on the floor: the higher the support, the closer you are to a handstand.
 - [Full hold (feet together)](https://learn.handstandpro.app/en/exercises/full-hold/): The handstand as you picture it: legs together from start to finish, body stacked from hands to feet.
 - [Hollow body hold](https://learn.handstandpro.app/en/exercises/hollow-body-hold/): The handstand shape, practised lying on your back with the lower back pressed down.
+- [Pike leg raises](https://learn.handstandpro.app/en/exercises/pike-leg-raises/): Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.
 - [Split handstand](https://learn.handstandpro.app/en/exercises/split-handstand/): The handstand without a wall, one leg forward and one back, like scissors.
 - [Toe pulls](https://learn.handstandpro.app/en/exercises/toe-pulls/): Facing the wall, you lift your toes off by pressing into your fingers: your first real balance.
+- [Wall pike hold](https://learn.handstandpro.app/en/exercises/wall-pike-hold/): Body folded at a right angle, feet on the wall at hip height: the position where your shoulders start to carry.
 - [Wall plank](https://learn.handstandpro.app/en/exercises/wall-plank/): Feet on the wall at hip height: the first time your shoulders carry your weight overhead.
 - [Wall tuck bail](https://learn.handstandpro.app/en/exercises/wall-tuck-bail/): The gentlest way to learn coming down, from a tucked position against the wall.
 - [Wall walks](https://learn.handstandpro.app/en/exercises/wall-walks/): Getting to the wall without a kick-up, walking your feet up while your hands come in.
@@ -89,10 +92,13 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Caminatas por la pared](https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/): Llegar a la pared sin kick up, subiendo con los pies mientras las manos se acercan.
 - [Círculos de muñeca](https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/): El primer ejercicio de cada sesión, antes de cargar el peso del cuerpo sobre las muñecas.
 - [Despegue de los pies](https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/): De frente a la pared, despegas las puntas de los pies empujando con los dedos: tu primer equilibrio de verdad.
+- [Elevaciones de piernas en pike](https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/): Con las piernas estiradas en el suelo, las despegas unos centímetros: la compresión, la que prepara el press.
 - [Parada completa (pies juntos)](https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/): La parada de manos tal como la imaginas: piernas juntas de principio a fin, el cuerpo apilado de las manos a los pies.
 - [Parada de frente a la pared](https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/): El pecho de frente a la pared, solo las puntas de los pies la tocan: la posición donde aprendes la línea correcta.
 - [Parada en split](https://learn.handstandpro.app/es/ejercicios/parada-en-split/): La parada de manos sin pared, con una pierna hacia delante y la otra hacia atrás.
 - [Plancha en la pared](https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/): Pies en la pared a la altura de la cadera: la primera vez que los hombros cargan tu peso por encima de la cabeza.
+- [Posición en pike contra la pared](https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/): El cuerpo doblado en ángulo recto, pies en la pared a la altura de la cadera: la posición donde los hombros empiezan a cargar.
+- [Posición en pike elevada](https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/): Los pies en un cajón, las manos en el suelo: cuanto más alto el apoyo, más cerca estás de la parada.
 - [Posición hollow (cuerpo hueco)](https://learn.handstandpro.app/es/ejercicios/posicion-hollow/): La forma de la parada de manos, trabajada boca arriba con la zona lumbar pegada al suelo.
 - [Salida agrupada desde la pared](https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/): La forma más suave de aprender a bajar, desde una posición agrupada contra la pared.
 - [Salida en rueda lateral](https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/): La salida que usarás en cada intento sin pared: una mano a un lado, la cadera gira.
@@ -117,9 +123,12 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Exercícios de parada de mão](https://learn.handstandpro.app/pt/exercicios/): Os exercícios do app Handstand Pro em vídeo, com os passos para fazer cada um e os erros a evitar.
 - [Caminhadas pela parede](https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/): Chegar na parede sem kick up, subindo com os pés enquanto as mãos se aproximam.
 - [Círculos de punho](https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/): O primeiro exercício de cada treino, antes de colocar o peso do corpo sobre os punhos.
+- [Elevações de pernas em pike](https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/): Com as pernas esticadas no chão, você as tira do chão alguns centímetros: a compressão, a que prepara o press.
 - [Parada completa (pés juntos)](https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/): A parada de mão como você imagina: pernas juntas do começo ao fim, o corpo empilhado das mãos aos pés.
 - [Parada de frente para a parede](https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/): O peito de frente para a parede, só as pontas dos pés encostam: a posição em que você aprende a linha certa.
 - [Parada em split](https://learn.handstandpro.app/pt/exercicios/parada-em-split/): A parada de mão sem parede, com uma perna para a frente e a outra para trás.
+- [Posição em pike elevada](https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/): Os pés num caixote, as mãos no chão: quanto mais alto o apoio, mais perto você está da parada.
+- [Posição em pike na parede](https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/): O corpo dobrado em ângulo reto, pés na parede na altura do quadril: a posição em que os ombros começam a carregar.
 - [Posição hollow (corpo oco)](https://learn.handstandpro.app/pt/exercicios/posicao-hollow/): A forma da parada de mão, treinada de barriga para cima com a lombar colada no chão.
 - [Prancha na parede](https://learn.handstandpro.app/pt/exercicios/prancha-na-parede/): Pés na parede na altura do quadril: a primeira vez que os ombros carregam o seu peso acima da cabeça.
 - [Saída de estrela](https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/): A saída que você vai usar em cada tentativa sem parede: uma mão para o lado, o quadril gira.
