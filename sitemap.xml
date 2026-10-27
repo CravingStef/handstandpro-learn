@@ -849,7 +849,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexion-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexao-de-punho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/oIqkBkIuAx4/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Flexion des poignets</video:title>
@@ -914,7 +917,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/rotaciones-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-sobre-as-maos-apoiadas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/ZRSY3m6CZRM/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Rotations sur les poignets</video:title>
@@ -1325,6 +1331,40 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wrist-flexion/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexion-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexao-de-punho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oIqkBkIuAx4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wrist flexion</video:title>
+      <video:description>Hands turned backward, palms flat: the other direction, the one that balances all the extension work.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oIqkBkIuAx4</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T09:22:27-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wrist-rotations/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/rotaciones-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-sobre-as-maos-apoiadas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZRSY3m6CZRM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wrist rotations</video:title>
+      <video:description>Hands planted, arms straight, circles that keep growing: loading the wrists a little at a time.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/ZRSY3m6CZRM</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-12T09:31:14-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
@@ -1399,6 +1439,23 @@
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
       <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/flexion-de-muneca/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexion-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexao-de-punho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oIqkBkIuAx4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Flexión de muñeca</video:title>
+      <video:description>Manos giradas hacia atrás, palmas planas: el sentido contrario, el que equilibra todo el trabajo en extensión.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oIqkBkIuAx4</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T09:22:27-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1538,6 +1595,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/rotaciones-sobre-las-munecas/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/rotaciones-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-sobre-as-maos-apoiadas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZRSY3m6CZRM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Rotaciones sobre las muñecas</video:title>
+      <video:description>Manos apoyadas, brazos rectos y círculos cada vez más amplios: la carga progresiva de las muñecas.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/ZRSY3m6CZRM</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-12T09:31:14-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/salida-agrupada-desde-la-pared/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
@@ -1615,6 +1689,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/circulos-sobre-as-maos-apoiadas/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/rotaciones-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/circulos-sobre-as-maos-apoiadas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rotations/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZRSY3m6CZRM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Círculos sobre as mãos apoiadas</video:title>
+      <video:description>Mãos apoiadas, braços esticados e círculos cada vez maiores: a carga progressiva dos punhos.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/ZRSY3m6CZRM</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-12T09:31:14-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
@@ -1629,6 +1720,23 @@
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
       <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/flexao-de-punho/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexion-de-muneca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexao-de-punho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-flexion/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oIqkBkIuAx4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Flexão de punho</video:title>
+      <video:description>Mãos viradas para trás, palmas apoiadas: o sentido contrário, o que equilibra todo o trabalho em extensão.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oIqkBkIuAx4</video:player_loc>
+      <video:duration>24</video:duration>
+      <video:publication_date>2026-09-12T09:22:27-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
