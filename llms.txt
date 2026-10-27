@@ -29,6 +29,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Elevated pike hold](https://learn.handstandpro.app/en/exercises/elevated-pike-hold/): Feet on a box, hands on the floor: the higher the support, the closer you are to a handstand.
 - [Full hold (feet together)](https://learn.handstandpro.app/en/exercises/full-hold/): The handstand as you picture it: legs together from start to finish, body stacked from hands to feet.
 - [Hollow body hold](https://learn.handstandpro.app/en/exercises/hollow-body-hold/): The handstand shape, practised lying on your back with the lower back pressed down.
+- [Pike hold](https://learn.handstandpro.app/en/exercises/pike-hold/): Hands and feet on the floor, hips high: the simplest version of that right angle, the one that teaches your shoulders to carry.
 - [Pike leg raises](https://learn.handstandpro.app/en/exercises/pike-leg-raises/): Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.
 - [Split handstand](https://learn.handstandpro.app/en/exercises/split-handstand/): The handstand without a wall, one leg forward and one back, like scissors.
 - [Toe pulls](https://learn.handstandpro.app/en/exercises/toe-pulls/): Facing the wall, you lift your toes off by pressing into your fingers: your first real balance.
@@ -98,6 +99,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Parada de frente a la pared](https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/): El pecho de frente a la pared, solo las puntas de los pies la tocan: la posición donde aprendes la línea correcta.
 - [Parada en split](https://learn.handstandpro.app/es/ejercicios/parada-en-split/): La parada de manos sin pared, con una pierna hacia delante y la otra hacia atrás.
 - [Plancha en la pared](https://learn.handstandpro.app/es/ejercicios/plancha-en-la-pared/): Pies en la pared a la altura de la cadera: la primera vez que los hombros cargan tu peso por encima de la cabeza.
+- [Posición en pike](https://learn.handstandpro.app/es/ejercicios/posicion-en-pike/): Manos y pies en el suelo, cadera alta: la versión más simple de ese ángulo recto, la que enseña a los hombros a cargar.
 - [Posición en pike contra la pared](https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/): El cuerpo doblado en ángulo recto, pies en la pared a la altura de la cadera: la posición donde los hombros empiezan a cargar.
 - [Posición en pike elevada](https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/): Los pies en un cajón, las manos en el suelo: cuanto más alto el apoyo, más cerca estás de la parada.
 - [Posición hollow (cuerpo hueco)](https://learn.handstandpro.app/es/ejercicios/posicion-hollow/): La forma de la parada de manos, trabajada boca arriba con la zona lumbar pegada al suelo.
@@ -128,6 +130,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Parada completa (pés juntos)](https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/): A parada de mão como você imagina: pernas juntas do começo ao fim, o corpo empilhado das mãos aos pés.
 - [Parada de frente para a parede](https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/): O peito de frente para a parede, só as pontas dos pés encostam: a posição em que você aprende a linha certa.
 - [Parada em split](https://learn.handstandpro.app/pt/exercicios/parada-em-split/): A parada de mão sem parede, com uma perna para a frente e a outra para trás.
+- [Posição em pike](https://learn.handstandpro.app/pt/exercicios/posicao-em-pike/): Mãos e pés no chão, quadril alto: a versão mais simples desse ângulo reto, a que ensina os ombros a carregar.
 - [Posição em pike elevada](https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-elevada/): Os pés num caixote, as mãos no chão: quanto mais alto o apoio, mais perto você está da parada.
 - [Posição em pike na parede](https://learn.handstandpro.app/pt/exercicios/posicao-em-pike-na-parede/): O corpo dobrado em ângulo reto, pés na parede na altura do quadril: a posição em que os ombros começam a carregar.
 - [Posição hollow (corpo oco)](https://learn.handstandpro.app/pt/exercicios/posicao-hollow/): A forma da parada de mão, treinada de barriga para cima com a lombar colada no chão.
