@@ -65,6 +65,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Sortie en roue](https://learn.handstandpro.app/fr/exercices/sortie-en-roue/): La sortie que tu utiliseras à chaque tentative sans mur : une main sur le côté, les hanches pivotent.
 - [Sortie groupée du mur](https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/): La façon la plus douce d'apprendre à redescendre, depuis une position groupée contre le mur.
 - [Tenue complète (pieds joints)](https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/): Le handstand tel qu'on l'imagine : jambes serrées du début à la fin, le corps empilé des mains aux pieds.
+- [Tenue en pike](https://learn.handstandpro.app/fr/exercices/tenue-en-pike/): Mains et pieds au sol, hanches hautes : la version la plus simple de l'équerre, celle qui apprend aux épaules à porter.
 - [Tenue en pike au mur](https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/): Le corps en équerre, pieds sur le mur à hauteur de hanches : la position où les épaules commencent à porter.
 - [Tenue en pike surélevée](https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/): Les pieds sur une boîte, les mains au sol : plus le support est haut, plus tu es proche de l'équilibre.
 - [Tenue en split (pieds décalés)](https://learn.handstandpro.app/fr/exercices/tenue-en-split/): Le handstand sans mur, une jambe vers l'avant et l'autre vers l'arrière, en ciseau.
