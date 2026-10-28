@@ -1034,7 +1034,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-split/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1067,6 +1067,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/N9rqZc5yV8M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue groupée face au mur</video:title>
+      <video:description>Genoux repliés, hanches au-dessus des mains : tu apprends à empiler ton corps sur tes épaules.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/N9rqZc5yV8M</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-13T23:27:51-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-hollow/</loc>
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
@@ -1081,6 +1095,20 @@
       <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
       <video:duration>22</video:duration>
       <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/luHrR_N6LvE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Touches alternées face au mur</video:title>
+      <video:description>Face au mur, un orteil touche, puis l'autre, et entre les deux tu tiens l'équilibre.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/luHrR_N6LvE</video:player_loc>
+      <video:duration>35</video:duration>
+      <video:publication_date>2026-09-12T09:17:19-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
