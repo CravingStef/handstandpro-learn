@@ -64,6 +64,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Les exercices du handstand](https://learn.handstandpro.app/fr/exercices/): Les exercices de l'app Handstand Pro en vidéo, avec les étapes pour les faire et les erreurs à éviter.
 - [Cercles de poignets](https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/): Le premier exercice de chaque séance, avant de mettre le poids du corps sur les poignets.
 - [Décollement des orteils](https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/): Face au mur, tu décolles les orteils en poussant dans les doigts : ton premier vrai équilibre.
+- [Équilibre au mur jambes alternées](https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/): Dos au mur, jambes décalées, un pied touche le mur puis l'autre, et entre les deux tu tiens seul.
 - [Flexion des poignets](https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/): Mains tournées vers l'arrière, paumes à plat : le sens inverse, celui qui équilibre tout le travail en extension.
 - [Levées de jambes en pike](https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/): Assis jambes tendues, tu décolles les jambes du sol : la compression, celle qui prépare la montée en force.
 - [Montées au mur](https://learn.handstandpro.app/fr/exercices/montees-au-mur/): Arriver face au mur sans kick-up, en marchant avec les pieds pendant que les mains se rapprochent.
