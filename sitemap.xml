@@ -917,7 +917,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/planche/</loc>
     <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/plank/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/23SsfQWfSi0/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Planche</video:title>
@@ -1294,6 +1297,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/plank/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/23SsfQWfSi0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Plank</video:title>
+      <video:description>Straight arms, one straight line from heels to head: a horizontal handstand, and the first test before you go upside down.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/23SsfQWfSi0</video:player_loc>
+      <video:duration>17</video:duration>
+      <video:publication_date>2026-09-10T09:41:57-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/split-handstand/</loc>
     <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
@@ -1640,6 +1660,23 @@
       <video:player_loc>https://www.youtube.com/embed/V5QftNcyJ8U</video:player_loc>
       <video:duration>21</video:duration>
       <video:publication_date>2026-09-17T00:29:11-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/plancha/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/23SsfQWfSi0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Plancha</video:title>
+      <video:description>Brazos estirados, una sola línea recta de los talones a la cabeza: una parada de manos en horizontal, y la primera prueba antes de ponerte cabeza abajo.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/23SsfQWfSi0</video:player_loc>
+      <video:duration>17</video:duration>
+      <video:publication_date>2026-09-10T09:41:57-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -2040,6 +2077,23 @@
       <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
       <video:duration>22</video:duration>
       <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/prancha/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/prancha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/plank/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/23SsfQWfSi0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Prancha</video:title>
+      <video:description>Braços esticados, uma única linha reta dos calcanhares à cabeça: uma parada de mão na horizontal, e o primeiro teste antes de ficar de cabeça para baixo.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/23SsfQWfSi0</video:player_loc>
+      <video:duration>17</video:duration>
+      <video:publication_date>2026-09-10T09:41:57-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
