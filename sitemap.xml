@@ -804,7 +804,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1070,7 +1070,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-tuck-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/N9rqZc5yV8M/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Tenue groupée face au mur</video:title>
@@ -1101,7 +1104,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/luHrR_N6LvE/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Touches alternées face au mur</video:title>
@@ -1113,7 +1119,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1152,6 +1158,23 @@
       <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
       <video:duration>32</video:duration>
       <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/luHrR_N6LvE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Chest-to-wall toe taps</video:title>
+      <video:description>Facing the wall, you tap one toe, then the other, and balance in between.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/luHrR_N6LvE</video:player_loc>
+      <video:duration>35</video:duration>
+      <video:publication_date>2026-09-12T09:17:19-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1241,7 +1264,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/split-handstand/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1325,6 +1348,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wall-tuck-hold/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-tuck-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/N9rqZc5yV8M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall tuck hold</video:title>
+      <video:description>Knees tucked, hips over your hands: you learn to stack your body on your shoulders.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/N9rqZc5yV8M</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-13T23:27:51-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/wall-walks/</loc>
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
@@ -1394,7 +1434,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1487,6 +1527,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-tuck-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/N9rqZc5yV8M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada agrupada de frente a la pared</video:title>
+      <video:description>Rodillas recogidas, cadera sobre las manos: aprendes a apilar el cuerpo sobre los hombros.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/N9rqZc5yV8M</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-13T23:27:51-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
@@ -1522,7 +1579,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/parada-en-split/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1674,8 +1731,25 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/toques-alternados-de-frente-a-la-pared/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/luHrR_N6LvE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Toques alternados de frente a la pared</video:title>
+      <video:description>De frente a la pared, tocas con una punta, luego con la otra, y entre las dos aguantas el equilibrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/luHrR_N6LvE</video:player_loc>
+      <video:duration>35</video:duration>
+      <video:publication_date>2026-09-12T09:17:19-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1803,7 +1877,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/parada-em-split/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1816,6 +1890,23 @@
       <video:player_loc>https://www.youtube.com/embed/V5QftNcyJ8U</video:player_loc>
       <video:duration>21</video:duration>
       <video:publication_date>2026-09-17T00:29:11-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/parada-em-tuck-de-frente-para-a-parede/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/parada-em-tuck-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/N9rqZc5yV8M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parada em tuck de frente para a parede</video:title>
+      <video:description>Joelhos recolhidos, quadril acima das mãos: você aprende a empilhar o corpo sobre os ombros.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/N9rqZc5yV8M</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-13T23:27:51-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1952,6 +2043,23 @@
       <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
       <video:duration>53</video:duration>
       <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/toques-alternados-de-frente-para-a-parede/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/touches-alternees-face-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-taps/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/luHrR_N6LvE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Toques alternados de frente para a parede</video:title>
+      <video:description>De frente para a parede, uma ponta do pé encosta, depois a outra, e entre as duas você segura o equilíbrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/luHrR_N6LvE</video:player_loc>
+      <video:duration>35</video:duration>
+      <video:publication_date>2026-09-12T09:17:19-07:00</video:publication_date>
     </video:video>
   </url>
 </urlset>
