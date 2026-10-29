@@ -881,7 +881,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
@@ -889,7 +889,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Levées de jambes en pike</video:title>
+      <video:title>Levées d'une et deux jambes</video:title>
       <video:description>Assis jambes tendues, tu décolles les jambes du sol : la compression, celle qui prépare la montée en force.</video:description>
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
@@ -1000,7 +1000,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/full-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/"/>
@@ -1280,23 +1280,6 @@
     </video:video>
   </url>
   <url>
-    <loc>https://learn.handstandpro.app/en/exercises/pike-leg-raises/</loc>
-    <lastmod>2026-10-28</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Pike leg raises</video:title>
-      <video:description>Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
-      <video:duration>40</video:duration>
-      <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://learn.handstandpro.app/en/exercises/plank/</loc>
     <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
@@ -1311,6 +1294,23 @@
       <video:player_loc>https://www.youtube.com/embed/23SsfQWfSi0</video:player_loc>
       <video:duration>17</video:duration>
       <video:publication_date>2026-09-10T09:41:57-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/pike-leg-raises/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Single &amp; double leg raises</video:title>
+      <video:description>Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1562,7 +1562,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
@@ -1570,7 +1570,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Elevaciones de piernas en pike</video:title>
+      <video:title>Elevaciones de una y dos piernas</video:title>
       <video:description>Con las piernas estiradas en el suelo, las despegas unos centímetros: la compresión, la que prepara el press.</video:description>
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
@@ -1911,7 +1911,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
@@ -1919,7 +1919,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/MGDYKH94GN8/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Elevações de pernas em pike</video:title>
+      <video:title>Elevações de uma e duas pernas</video:title>
       <video:description>Com as pernas esticadas no chão, você as tira do chão alguns centímetros: a compressão, a que prepara o press.</video:description>
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
@@ -2115,7 +2115,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/saida-de-estrela/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-en-roue/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/cartwheel-bail/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/salida-en-rueda-lateral/"/>

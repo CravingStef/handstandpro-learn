@@ -31,8 +31,8 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Full hold (feet together)](https://learn.handstandpro.app/en/exercises/full-hold/): The handstand as you picture it: legs together from start to finish, body stacked from hands to feet.
 - [Hollow body hold](https://learn.handstandpro.app/en/exercises/hollow-body-hold/): The handstand shape, practiced lying on your back with the lower back pressed down.
 - [Pike hold](https://learn.handstandpro.app/en/exercises/pike-hold/): Hands and feet on the floor, hips high: the simplest version of that right angle, the one that teaches your shoulders to carry.
-- [Pike leg raises](https://learn.handstandpro.app/en/exercises/pike-leg-raises/): Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.
 - [Plank](https://learn.handstandpro.app/en/exercises/plank/): Straight arms, one straight line from heels to head: a horizontal handstand, and the first test before you go upside down.
+- [Single & double leg raises](https://learn.handstandpro.app/en/exercises/pike-leg-raises/): Sitting with your legs straight, you lift them off the floor: compression, the thing that prepares the press.
 - [Split handstand](https://learn.handstandpro.app/en/exercises/split-handstand/): The handstand without a wall, one leg forward and one back, like scissors.
 - [Toe pulls](https://learn.handstandpro.app/en/exercises/toe-pulls/): Facing the wall, you lift your toes off by pressing into your fingers: your first real balance.
 - [Wall pike hold](https://learn.handstandpro.app/en/exercises/wall-pike-hold/): Body folded at a right angle, feet on the wall at hip height: the position where your shoulders start to carry.
@@ -68,7 +68,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Décollement des orteils](https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/): Face au mur, tu décolles les orteils en poussant dans les doigts : ton premier vrai équilibre.
 - [Équilibre au mur jambes alternées](https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/): Dos au mur, jambes décalées, un pied touche le mur puis l'autre, et entre les deux tu tiens seul.
 - [Flexion des poignets](https://learn.handstandpro.app/fr/exercices/flexion-des-poignets/): Mains tournées vers l'arrière, paumes à plat : le sens inverse, celui qui équilibre tout le travail en extension.
-- [Levées de jambes en pike](https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/): Assis jambes tendues, tu décolles les jambes du sol : la compression, celle qui prépare la montée en force.
+- [Levées d'une et deux jambes](https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/): Assis jambes tendues, tu décolles les jambes du sol : la compression, celle qui prépare la montée en force.
 - [Montées au mur](https://learn.handstandpro.app/fr/exercices/montees-au-mur/): Arriver face au mur sans kick-up, en marchant avec les pieds pendant que les mains se rapprochent.
 - [Planche](https://learn.handstandpro.app/fr/exercices/planche/): Bras tendus, corps en une seule ligne : un handstand à l'horizontale, et le premier test avant de partir à l'envers.
 - [Planche au mur](https://learn.handstandpro.app/fr/exercices/planche-au-mur/): Pieds sur le mur à hauteur de hanches : la première fois que tes épaules portent ton poids au-dessus de la tête.
@@ -106,7 +106,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Caminatas por la pared](https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/): Llegar a la pared sin kick up, subiendo con los pies mientras las manos se acercan.
 - [Círculos de muñeca](https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/): El primer ejercicio de cada sesión, antes de cargar el peso del cuerpo sobre las muñecas.
 - [Despegue de los pies](https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/): De frente a la pared, despegas las puntas de los pies empujando con las yemas: tu primer equilibrio de verdad.
-- [Elevaciones de piernas en pike](https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/): Con las piernas estiradas en el suelo, las despegas unos centímetros: la compresión, la que prepara el press.
+- [Elevaciones de una y dos piernas](https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/): Con las piernas estiradas en el suelo, las despegas unos centímetros: la compresión, la que prepara el press.
 - [Flexión de muñeca](https://learn.handstandpro.app/es/ejercicios/flexion-de-muneca/): Manos giradas hacia atrás, palmas planas: el sentido contrario, el que equilibra todo el trabajo en extensión.
 - [Parada agrupada de frente a la pared](https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/): Rodillas recogidas, cadera sobre las manos: aprendes a apilar el cuerpo sobre los hombros.
 - [Parada completa (pies juntos)](https://learn.handstandpro.app/es/ejercicios/parada-completa-pies-juntos/): La parada de manos tal como la imaginas: piernas juntas de principio a fin, el cuerpo apilado de las manos a los pies.
@@ -145,7 +145,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Caminhadas pela parede](https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/): Chegar na parede sem kick up, subindo com os pés enquanto as mãos se aproximam.
 - [Círculos de punho](https://learn.handstandpro.app/pt/exercicios/circulos-de-punho/): O primeiro exercício de cada treino, antes de colocar o peso do corpo sobre os punhos.
 - [Círculos sobre as mãos apoiadas](https://learn.handstandpro.app/pt/exercicios/circulos-sobre-as-maos-apoiadas/): Mãos apoiadas, braços esticados e círculos cada vez maiores: a carga progressiva dos punhos.
-- [Elevações de pernas em pike](https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/): Com as pernas esticadas no chão, você as tira do chão alguns centímetros: a compressão, a que prepara o press.
+- [Elevações de uma e duas pernas](https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/): Com as pernas esticadas no chão, você as tira do chão alguns centímetros: a compressão, a que prepara o press.
 - [Flexão de punho](https://learn.handstandpro.app/pt/exercicios/flexao-de-punho/): Mãos viradas para trás, palmas apoiadas: o sentido contrário, o que equilibra todo o trabalho em extensão.
 - [Parada completa (pés juntos)](https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/): A parada de mão como você imagina: pernas juntas do começo ao fim, o corpo empilhado das mãos aos pés.
 - [Parada de frente para a parede](https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/): O peito de frente para a parede, só as pontas dos pés encostam: a posição em que você aprende a linha certa.
