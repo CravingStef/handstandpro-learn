@@ -849,7 +849,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/</loc>
     <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/5jMF72YJlSc/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Équilibre au mur jambes alternées</video:title>
@@ -1345,6 +1348,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5jMF72YJlSc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall split-leg alternating taps</video:title>
+      <video:description>With your back to the wall and your legs split, you tap one foot, then the other, and balance on your own in between.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/5jMF72YJlSc</video:player_loc>
+      <video:duration>43</video:duration>
+      <video:publication_date>2026-09-17T00:37:00-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/wall-tuck-bail/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/"/>
@@ -1762,6 +1782,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5jMF72YJlSc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Toques alternados en split</video:title>
+      <video:description>De espaldas a la pared y con las piernas en split, un pie toca la pared, luego el otro, y entre los dos aguantas por tu cuenta.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/5jMF72YJlSc</video:player_loc>
+      <video:duration>43</video:duration>
+      <video:publication_date>2026-09-17T00:37:00-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
     <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
@@ -2074,6 +2111,23 @@
       <video:player_loc>https://www.youtube.com/embed/luHrR_N6LvE</video:player_loc>
       <video:duration>35</video:duration>
       <video:publication_date>2026-09-12T09:17:19-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/toques-alternados-em-split/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/toques-alternados-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5jMF72YJlSc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Toques alternados em split</video:title>
+      <video:description>De costas para a parede, pernas em split, um pé toca a parede, depois o outro, e entre os dois você se equilibra sem apoio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/5jMF72YJlSc</video:player_loc>
+      <video:duration>43</video:duration>
+      <video:publication_date>2026-09-17T00:37:00-07:00</video:publication_date>
     </video:video>
   </url>
 </urlset>
