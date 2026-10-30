@@ -483,7 +483,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/wrist-shoulder-mobility-handstand/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/wrist-shoulder-mobility-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/movilidad-munecas-hombros-parada-de-manos/"/>
@@ -492,7 +492,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/movilidad-munecas-hombros-parada-de-manos/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/wrist-shoulder-mobility-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/movilidad-munecas-hombros-parada-de-manos/"/>
@@ -501,7 +501,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/mobilidade-punhos-ombros-parada-de-mao/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/wrist-shoulder-mobility-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/movilidad-munecas-hombros-parada-de-manos/"/>
@@ -815,7 +815,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/</loc>
     <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-sobre-as-maos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/jOsPTLOtso8/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Bascules sur les poignets</video:title>
@@ -829,7 +832,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/</loc>
     <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/deslizamientos-de-brazos-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/deslizamentos-de-bracos-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/o-wb_dNzNXo/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Bras glissés au mur</video:title>
@@ -979,7 +985,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/</loc>
     <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexiones-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexoes-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/oJBRBG44u0g/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Pompes scapulaires</video:title>
@@ -1146,7 +1155,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/</loc>
     <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegarse-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/desgrudar-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/YQ_ScaipWA0/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Tenue face au mur, se décoller</video:title>
@@ -1235,7 +1247,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
@@ -1248,6 +1260,23 @@
       <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
       <video:duration>32</video:duration>
       <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegarse-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/desgrudar-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YQ_ScaipWA0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Chest-to-wall toe pull</video:title>
+      <video:description>Facing the wall, one toe comes off, then the other leg presses less and less and moves away, until it takes you into balance.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/YQ_ScaipWA0</video:player_loc>
+      <video:duration>51</video:duration>
+      <video:publication_date>2026-09-14T15:42:45-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1337,7 +1366,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/plank/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
@@ -1350,6 +1379,23 @@
       <video:player_loc>https://www.youtube.com/embed/23SsfQWfSi0</video:player_loc>
       <video:duration>17</video:duration>
       <video:publication_date>2026-09-10T09:41:57-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/scap-push-ups/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexiones-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexoes-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oJBRBG44u0g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Scap push-ups</video:title>
+      <video:description>In a plank, arms straight, only your shoulder blades move: it's the movement that pushes the floor away in a handstand.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oJBRBG44u0g</video:player_loc>
+      <video:duration>16</video:duration>
+      <video:publication_date>2026-09-09T15:28:40-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1401,6 +1447,23 @@
       <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
       <video:duration>53</video:duration>
       <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wall-arm-slides/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/deslizamientos-de-brazos-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/deslizamentos-de-bracos-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/o-wb_dNzNXo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall arm slides</video:title>
+      <video:description>Back to the wall, forearms against it, you slide your arms down and up without anything coming off the wall.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/o-wb_dNzNXo</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-26T04:25:13-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1540,6 +1603,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wrist-rocks/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-sobre-as-maos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jOsPTLOtso8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wrist rocks</video:title>
+      <video:description>Kneeling, hands on the floor, you shift your shoulders past your wrists and back: the load builds little by little.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/jOsPTLOtso8</video:player_loc>
+      <video:duration>28</video:duration>
+      <video:publication_date>2026-09-12T09:14:42-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/wrist-rotations/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/"/>
@@ -1564,6 +1644,23 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/balanceos-sobre-las-munecas/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-sobre-as-maos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jOsPTLOtso8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Balanceos sobre las muñecas</video:title>
+      <video:description>De rodillas, con las manos en el suelo, adelantas los hombros más allá de las muñecas y vuelves: la carga sube poco a poco.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/jOsPTLOtso8</video:player_loc>
+      <video:duration>28</video:duration>
+      <video:publication_date>2026-09-12T09:14:42-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/caminatas-por-la-pared/</loc>
@@ -1600,6 +1697,40 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/despegarse-de-frente-a-la-pared/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegarse-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/desgrudar-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YQ_ScaipWA0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>De frente a la pared, despegarse</video:title>
+      <video:description>De frente a la pared, una punta se despega, luego la otra pierna apoya cada vez menos y se aleja, hasta llevarte al equilibrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/YQ_ScaipWA0</video:player_loc>
+      <video:duration>51</video:duration>
+      <video:publication_date>2026-09-14T15:42:45-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/deslizamientos-de-brazos-en-la-pared/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/deslizamientos-de-brazos-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/deslizamentos-de-bracos-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/o-wb_dNzNXo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Deslizamientos de brazos en la pared</video:title>
+      <video:description>De espaldas a la pared, con los antebrazos pegados a ella, subes y bajas los brazos sin despegar nada.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/o-wb_dNzNXo</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-26T04:25:13-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
@@ -1631,6 +1762,23 @@
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
       <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/flexiones-escapulares/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexiones-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexoes-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oJBRBG44u0g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Flexiones escapulares</video:title>
+      <video:description>En plancha, con los brazos estirados, solo se mueven los omóplatos: es el gesto que empuja el suelo en la parada de manos.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oJBRBG44u0g</video:player_loc>
+      <video:duration>16</video:duration>
+      <video:publication_date>2026-09-09T15:28:40-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1686,7 +1834,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
@@ -1720,7 +1868,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/plancha/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
@@ -1915,6 +2063,23 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/balancos-sobre-as-maos/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-sobre-las-munecas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-sobre-as-maos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wrist-rocks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jOsPTLOtso8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Balanços sobre as mãos</video:title>
+      <video:description>De joelhos, com as mãos no chão, você leva os ombros além dos punhos e volta: a carga sobe aos poucos.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/jOsPTLOtso8</video:player_loc>
+      <video:duration>28</video:duration>
+      <video:publication_date>2026-09-12T09:14:42-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/caminhadas-pela-parede/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/montees-au-mur/"/>
@@ -1966,6 +2131,40 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/desgrudar-de-frente-para-a-parede/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegarse-de-frente-a-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/desgrudar-de-frente-para-a-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-toe-pull/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YQ_ScaipWA0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>De frente para a parede, desgrudar</video:title>
+      <video:description>De frente para a parede, uma ponta do pé sai, depois a outra perna apoia cada vez menos e se afasta, até levar você ao equilíbrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/YQ_ScaipWA0</video:player_loc>
+      <video:duration>51</video:duration>
+      <video:publication_date>2026-09-14T15:42:45-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/deslizamentos-de-bracos-na-parede/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/deslizamientos-de-brazos-en-la-pared/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/deslizamentos-de-bracos-na-parede/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/o-wb_dNzNXo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Deslizamentos de braços na parede</video:title>
+      <video:description>De costas para a parede, com os antebraços encostados nela, você sobe e desce os braços sem descolar nada.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/o-wb_dNzNXo</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-26T04:25:13-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/elevacoes-de-pernas-em-pike/</loc>
     <lastmod>2026-10-29</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
@@ -2000,6 +2199,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/flexoes-escapulares/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexiones-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/flexoes-escapulares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/scap-push-ups/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oJBRBG44u0g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Flexões escapulares</video:title>
+      <video:description>Na prancha, com os braços esticados, só as escápulas se mexem: é o gesto que empurra o chão na parada de mão.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oJBRBG44u0g</video:player_loc>
+      <video:duration>16</video:duration>
+      <video:publication_date>2026-09-09T15:28:40-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/parada-completa-pes-juntos/</loc>
     <lastmod>2026-10-27</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-complete-pieds-joints/"/>
@@ -2018,7 +2234,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/parada-de-frente-para-a-parede/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
@@ -2137,7 +2353,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/prancha/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
