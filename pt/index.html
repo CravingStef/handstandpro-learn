@@ -35,6 +35,18 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Handstand Pro", "operatingSystem": "iOS", "applicationCategory": "HealthApplication", "description": "Guias gratuitos e concretos para aprender a parada de mão sendo adulto: exercícios na parede, medo de cair, prazos realistas e programas de treino. Do app Handstand Pro.", "url": "https://handstandpro.app/pt/"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "O guia do handstand da Handstand Pro", "url": "https://learn.handstandpro.app/pt/", "sameAs": ["https://handstandpro.app/pt/"]}</script>
+<script type="module">
+const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+if (tz && !/^(Europe|Arctic)\/|^Atlantic\/(Reykjavik|Canary|Madeira|Azores|Faroe)$|^Asia\/(Nicosia|Famagusta)$|^America\/(Guadeloupe|Martinique|Cayenne|Marigot|St_Barthelemy)$|^Indian\/(Reunion|Mayotte)$/.test(tz)) {
+  const { analytics } = await import("https://esm.sh/@heycatch/sdk@0.8.3");
+  analytics.init({
+    projectKey: "hck_pk_hbgGAgC59ZfD9SossjCLIf8xPbJUcLk4",
+    install: { framework: "web", agent: "claude-code" },
+    site: "landing",
+    requestBatching: false,
+  });
+}
+</script>
 </head>
 <body>
 <a class="skip" href="#main">Ir para o conteúdo</a>

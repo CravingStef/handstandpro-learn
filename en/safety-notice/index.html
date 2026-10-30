@@ -34,6 +34,18 @@
 <link rel="preload" href="/assets/fonts/Unbounded-Bold.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://handstandpro.app/en/"}, {"@type": "ListItem", "position": 2, "name": "Guide", "item": "https://learn.handstandpro.app/"}, {"@type": "ListItem", "position": 3, "name": "Safety notice", "item": "https://learn.handstandpro.app/en/safety-notice/"}]}</script>
+<script type="module">
+const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+if (tz && !/^(Europe|Arctic)\/|^Atlantic\/(Reykjavik|Canary|Madeira|Azores|Faroe)$|^Asia\/(Nicosia|Famagusta)$|^America\/(Guadeloupe|Martinique|Cayenne|Marigot|St_Barthelemy)$|^Indian\/(Reunion|Mayotte)$/.test(tz)) {
+  const { analytics } = await import("https://esm.sh/@heycatch/sdk@0.8.3");
+  analytics.init({
+    projectKey: "hck_pk_hbgGAgC59ZfD9SossjCLIf8xPbJUcLk4",
+    install: { framework: "web", agent: "claude-code" },
+    site: "landing",
+    requestBatching: false,
+  });
+}
+</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>

@@ -1,6 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
+<script>
+var hc = location.pathname.match(/^\/([a-z0-9])\/?$/);
+if (hc) location.replace("/?utm_source=heycatch&utm_campaign=" + hc[1]);
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Page introuvable · Page not found · Handstand Pro</title>
@@ -9,6 +13,18 @@
 <meta name="apple-itunes-app" content="app-id=6780564521">
 <link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32">
 <link rel="stylesheet" href="/assets/css/style.css">
+<script type="module">
+const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+if (tz && !/^(Europe|Arctic)\/|^Atlantic\/(Reykjavik|Canary|Madeira|Azores|Faroe)$|^Asia\/(Nicosia|Famagusta)$|^America\/(Guadeloupe|Martinique|Cayenne|Marigot|St_Barthelemy)$|^Indian\/(Reunion|Mayotte)$/.test(tz)) {
+  const { analytics } = await import("https://esm.sh/@heycatch/sdk@0.8.3");
+  analytics.init({
+    projectKey: "hck_pk_hbgGAgC59ZfD9SossjCLIf8xPbJUcLk4",
+    install: { framework: "web", agent: "claude-code" },
+    site: "landing",
+    requestBatching: false,
+  });
+}
+</script>
 </head>
 <body>
 <main id="main">
