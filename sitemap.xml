@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://learn.handstandpro.app/fr/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -474,7 +474,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/wrist-shoulder-mobility-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/movilidad-munecas-hombros-parada-de-manos/"/>
@@ -812,6 +812,34 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jOsPTLOtso8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Bascules sur les poignets</video:title>
+      <video:description>À genoux, mains au sol, tu avances les épaules au-delà des poignets et tu reviens : la charge monte petit à petit.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/jOsPTLOtso8</video:player_loc>
+      <video:duration>28</video:duration>
+      <video:publication_date>2026-09-12T09:14:42-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/o-wb_dNzNXo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Bras glissés au mur</video:title>
+      <video:description>Dos au mur, avant-bras collés au mur, tu fais monter et descendre les bras sans rien décoller.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/o-wb_dNzNXo</video:player_loc>
+      <video:duration>25</video:duration>
+      <video:publication_date>2026-09-26T04:25:13-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
@@ -915,7 +943,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/planche/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/planche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/plank/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/plancha/"/>
@@ -945,6 +973,20 @@
       <video:player_loc>https://www.youtube.com/embed/Ip_TEA8Rk0o</video:player_loc>
       <video:duration>26</video:duration>
       <video:publication_date>2026-09-09T15:36:24-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oJBRBG44u0g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Pompes scapulaires</video:title>
+      <video:description>En planche, bras tendus, seules les omoplates bougent : c'est le geste qui fait pousser le sol en handstand.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/oJBRBG44u0g</video:player_loc>
+      <video:duration>16</video:duration>
+      <video:publication_date>2026-09-09T15:28:40-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1085,7 +1127,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/chest-to-wall-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-de-frente-a-la-pared/"/>
@@ -1098,6 +1140,20 @@
       <video:player_loc>https://www.youtube.com/embed/OYK0sNssfOo</video:player_loc>
       <video:duration>32</video:duration>
       <video:publication_date>2026-09-13T09:41:21-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YQ_ScaipWA0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Tenue face au mur, se décoller</video:title>
+      <video:description>Face au mur, un orteil décolle, puis l'autre jambe appuie de moins en moins et s'éloigne, jusqu'à te faire passer dans l'équilibre.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/YQ_ScaipWA0</video:player_loc>
+      <video:duration>51</video:duration>
+      <video:publication_date>2026-09-14T15:42:45-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
