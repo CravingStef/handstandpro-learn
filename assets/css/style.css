@@ -408,6 +408,7 @@ thead th:first-child, tbody td:first-child { width: 26%; min-width: 165px; }
   transition: filter .2s;
 }
 .btn:hover { filter: brightness(1.07); }
+.cta-prices { display: inline-block; margin: 12px 0 0 18px; font-size: 15px; text-decoration-color: currentColor; }
 
 .backlink { margin-top: 22px; font-size: 15px; color: var(--ink-3); }
 
