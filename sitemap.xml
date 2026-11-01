@@ -804,12 +804,26 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/bascules-hollow/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9pOxrWxBFCY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Bascules hollow</video:title>
+      <video:description>En tenue hollow, tu te balances d'avant en arrière d'un seul bloc, sans casser la forme.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/9pOxrWxBFCY</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-13T23:26:39-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/</loc>
@@ -864,7 +878,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
@@ -880,8 +894,36 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/decollement-des-talons/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fYjz2qNj77g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Décollement des talons</video:title>
+      <video:description>Dos au mur, talons posés dessus, tu pousses dans les doigts pour les décoller et trouver le point de bascule.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/fYjz2qNj77g</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-09-16T09:59:03-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AuObOwCxgc4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Du groupé au handstand complet</video:title>
+      <video:description>Tu montes genoux repliés, tu tends les jambes jusqu'au handstand complet, puis tu reviens en groupé par le même chemin.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/AuObOwCxgc4</video:player_loc>
+      <video:duration>23</video:duration>
+      <video:publication_date>2026-09-18T03:00:06-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
@@ -894,6 +936,20 @@
       <video:player_loc>https://www.youtube.com/embed/5jMF72YJlSc</video:player_loc>
       <video:duration>43</video:duration>
       <video:publication_date>2026-09-17T00:37:00-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EQmUG6wcstQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Équilibre au mur jambes décalées</video:title>
+      <video:description>Dos au mur, jambes en ciseau, seuls les orteils touchent le mur : tu cherches l'équilibre dans les doigts.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/EQmUG6wcstQ</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-09-16T10:03:52-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1119,7 +1175,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-split/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1170,7 +1226,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
@@ -1187,7 +1243,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-hollow/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
@@ -1221,7 +1277,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1417,7 +1473,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/split-handstand/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1638,7 +1694,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1851,7 +1907,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/parada-en-split/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -2055,7 +2111,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -2251,7 +2307,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/parada-em-split/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
