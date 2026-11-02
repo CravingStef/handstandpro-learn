@@ -804,7 +804,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -815,7 +815,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/bascules-hollow/</loc>
     <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/9pOxrWxBFCY/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Bascules hollow</video:title>
@@ -897,7 +900,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/decollement-des-talons/</loc>
     <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-talones/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-os-calcanhares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/fYjz2qNj77g/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Décollement des talons</video:title>
@@ -911,7 +917,10 @@
     <loc>https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/</loc>
     <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/de-agrupado-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/de-tuck-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/AuObOwCxgc4/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Du groupé au handstand complet</video:title>
@@ -940,9 +949,12 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/equilibrio-en-la-pared-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/equilibrio-na-parede-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/EQmUG6wcstQ/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Équilibre au mur jambes décalées</video:title>
@@ -1277,7 +1289,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1387,8 +1399,25 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/en/exercises/heel-pulls/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-talones/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-os-calcanhares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fYjz2qNj77g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Heel pulls</video:title>
+      <video:description>Back to the wall, heels resting on it, you push through your fingers to lift them off and find the tipping point.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/fYjz2qNj77g</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-09-16T09:59:03-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/en/exercises/hollow-body-hold/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
@@ -1401,6 +1430,40 @@
       <video:player_loc>https://www.youtube.com/embed/kdD7tEgEji4</video:player_loc>
       <video:duration>22</video:duration>
       <video:publication_date>2026-09-12T09:27:10-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/hollow-rocks/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9pOxrWxBFCY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Hollow rocks</video:title>
+      <video:description>In a hollow body hold, you rock back and forth as one solid unit, without breaking the shape.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/9pOxrWxBFCY</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-13T23:26:39-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/de-agrupado-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/de-tuck-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AuObOwCxgc4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Kick-tuck to full</video:title>
+      <video:description>You kick up with your knees tucked, extend your legs to a full handstand, then come back to the tuck the same way.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/AuObOwCxgc4</video:player_loc>
+      <video:duration>23</video:duration>
+      <video:publication_date>2026-09-18T03:00:06-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1490,7 +1553,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/toe-pulls/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
@@ -1558,7 +1621,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
@@ -1571,6 +1634,23 @@
       <video:player_loc>https://www.youtube.com/embed/5jMF72YJlSc</video:player_loc>
       <video:duration>43</video:duration>
       <video:publication_date>2026-09-17T00:37:00-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/equilibrio-en-la-pared-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/equilibrio-na-parede-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EQmUG6wcstQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wall split-leg balance</video:title>
+      <video:description>Back to the wall, legs in a split, only your toes touch the wall: you look for your balance in your fingers.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/EQmUG6wcstQ</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-09-16T10:03:52-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1592,7 +1672,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/wall-tuck-hold/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
@@ -1694,12 +1774,29 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/balanceos-hollow/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9pOxrWxBFCY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Balanceos hollow</video:title>
+      <video:description>En posición hollow, te balanceas adelante y atrás como un solo bloque, sin romper la forma.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/9pOxrWxBFCY</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-13T23:26:39-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/balanceos-sobre-las-munecas/</loc>
@@ -1753,6 +1850,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/de-agrupado-a-parada-completa/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/de-agrupado-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/de-tuck-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AuObOwCxgc4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>De agrupado a parada completa</video:title>
+      <video:description>Subes con las rodillas recogidas, estiras las piernas hasta la parada completa y vuelves al agrupado por el mismo camino.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/AuObOwCxgc4</video:player_loc>
+      <video:duration>23</video:duration>
+      <video:publication_date>2026-09-18T03:00:06-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/despegarse-de-frente-a-la-pared/</loc>
     <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-face-au-mur-se-decoller/"/>
@@ -1788,7 +1902,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
@@ -1801,6 +1915,23 @@
       <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
       <video:duration>53</video:duration>
       <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/despegue-de-los-talones/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-talones/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-os-calcanhares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fYjz2qNj77g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Despegue de los talones</video:title>
+      <video:description>De espaldas a la pared, con los talones apoyados en ella, empujas con los dedos para despegarlos y encontrar el punto de equilibrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/fYjz2qNj77g</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-09-16T09:59:03-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1818,6 +1949,23 @@
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
       <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/es/ejercicios/equilibrio-en-la-pared-en-split/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/equilibrio-en-la-pared-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/equilibrio-na-parede-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EQmUG6wcstQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Equilibrio en la pared en split</video:title>
+      <video:description>De espaldas a la pared, piernas en split, solo la punta del pie toca la pared: buscas el equilibrio en los dedos.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/EQmUG6wcstQ</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-09-16T10:03:52-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1856,7 +2004,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
@@ -2009,7 +2157,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/posicion-hollow/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
@@ -2094,7 +2242,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
@@ -2111,12 +2259,29 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/"/>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/balancos-hollow/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bascules-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/balanceos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/balancos-hollow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/hollow-rocks/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9pOxrWxBFCY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Balanços hollow</video:title>
+      <video:description>Na posição hollow, você balança para a frente e para trás como um bloco só, sem quebrar a forma.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/9pOxrWxBFCY</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-13T23:26:39-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/balancos-sobre-as-maos/</loc>
@@ -2204,6 +2369,23 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/de-tuck-a-parada-completa/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/du-groupe-au-handstand-complet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/de-agrupado-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/de-tuck-a-parada-completa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/kick-tuck-to-full/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AuObOwCxgc4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>De tuck a parada completa</video:title>
+      <video:description>Você sobe com os joelhos dobrados, estende as pernas até a parada completa e volta ao tuck pelo mesmo caminho.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/AuObOwCxgc4</video:player_loc>
+      <video:duration>23</video:duration>
+      <video:publication_date>2026-09-18T03:00:06-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/deslizamentos-de-bracos-na-parede/</loc>
     <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
@@ -2235,6 +2417,23 @@
       <video:player_loc>https://www.youtube.com/embed/MGDYKH94GN8</video:player_loc>
       <video:duration>40</video:duration>
       <video:publication_date>2026-10-20T23:38:12-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/equilibrio-na-parede-em-split/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-decalees/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/equilibrio-en-la-pared-en-split/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/equilibrio-na-parede-em-split/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-balance/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EQmUG6wcstQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Equilíbrio na parede em split</video:title>
+      <video:description>De costas para a parede, pernas em split, só a ponta do pé encosta na parede: você procura o equilíbrio nos dedos.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/EQmUG6wcstQ</video:player_loc>
+      <video:duration>40</video:duration>
+      <video:publication_date>2026-09-16T10:03:52-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -2324,7 +2523,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/parada-em-tuck-de-frente-para-a-parede/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-groupee-face-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-tuck-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-agrupada-de-frente-a-la-pared/"/>
@@ -2392,7 +2591,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/posicao-hollow/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
@@ -2477,7 +2676,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/soltar-as-pontas-dos-pes/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/toe-pulls/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-pies/"/>
@@ -2490,6 +2689,23 @@
       <video:player_loc>https://www.youtube.com/embed/6yR8yc_5fn8</video:player_loc>
       <video:duration>53</video:duration>
       <video:publication_date>2026-09-16T09:59:20-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/pt/exercicios/soltar-os-calcanhares/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-talones/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://learn.handstandpro.app/pt/exercicios/soltar-os-calcanhares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fYjz2qNj77g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Soltar os calcanhares</video:title>
+      <video:description>De costas para a parede, com os calcanhares apoiados nela, você empurra com os dedos para soltá-los e achar o ponto de equilíbrio.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/fYjz2qNj77g</video:player_loc>
+      <video:duration>36</video:duration>
+      <video:publication_date>2026-09-16T09:59:03-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -2511,7 +2727,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/toques-alternados-em-split/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/equilibre-au-mur-jambes-alternees/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-split-leg-alternating-taps/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/toques-alternados-en-split/"/>
