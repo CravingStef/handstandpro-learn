@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://learn.handstandpro.app/fr/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -474,7 +474,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/mobilite-poignets-epaules-handstand/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/wrist-shoulder-mobility-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/movilidad-munecas-hombros-parada-de-manos/"/>
@@ -804,7 +804,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -847,7 +847,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-arm-slides/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/deslizamientos-de-brazos-en-la-pared/"/>
@@ -877,6 +877,20 @@
       <video:player_loc>https://www.youtube.com/embed/zo1FMNl5ouQ</video:player_loc>
       <video:duration>24</video:duration>
       <video:publication_date>2026-09-12T08:55:50-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/chien-tete-en-bas/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/chien-tete-en-bas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/chien-tete-en-bas/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HA0Ccx4a6TI/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Chien tête en bas</video:title>
+      <video:description>Hanches hautes, talons qui cherchent le sol, tu repousses le sol avec les mains, oreilles entre les bras.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HA0Ccx4a6TI</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-10T23:45:25-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -983,7 +997,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/etirement-d-epaules-au-mur/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/etirement-d-epaules-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-shoulder-stretch/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/estiramiento-de-hombros-en-la-pared/"/>
@@ -1119,7 +1133,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/pompes-sur-les-doigts/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pompes-sur-les-doigts/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/finger-push-ups/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/flexiones-sobre-los-dedos/"/>
@@ -1132,6 +1146,34 @@
       <video:player_loc>https://www.youtube.com/embed/nF3vuJiuZF8</video:player_loc>
       <video:duration>16</video:duration>
       <video:publication_date>2026-09-10T09:44:19-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/pulsations-sur-les-doigts/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/pulsations-sur-les-doigts/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/pulsations-sur-les-doigts/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/4xESIvz53ws/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Pulsations sur les doigts</video:title>
+      <video:description>Mains au sol, doigts bien en appui, tu redresses la paume vers la verticale, puis tu redescends, par petits mouvements lents.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/4xESIvz53ws</video:player_loc>
+      <video:duration>28</video:duration>
+      <video:publication_date>2026-10-19T11:42:30-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/rotations-d-epaules-au-mur/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/rotations-d-epaules-au-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/rotations-d-epaules-au-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/w5X47bwUnL4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Rotations d'épaules au mur</video:title>
+      <video:description>Face au mur, bras levés, une main glisse vers le bas et passe sous le bras opposé, sans quitter le mur.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/w5X47bwUnL4</video:player_loc>
+      <video:duration>39</video:duration>
+      <video:publication_date>2026-09-26T04:26:35-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1357,7 +1399,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -1910,7 +1952,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -2463,7 +2505,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>

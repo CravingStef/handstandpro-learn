@@ -80,6 +80,7 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Bascules sur les poignets](https://learn.handstandpro.app/fr/exercices/bascules-sur-les-poignets/): À genoux, mains au sol, tu avances les épaules au-delà des poignets et tu reviens : la charge monte petit à petit.
 - [Bras glissés au mur](https://learn.handstandpro.app/fr/exercices/bras-glisses-au-mur/): Dos au mur, avant-bras collés au mur, tu fais monter et descendre les bras sans rien décoller.
 - [Cercles de poignets](https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/): Le premier exercice de chaque séance, avant de mettre le poids du corps sur les poignets.
+- [Chien tête en bas](https://learn.handstandpro.app/fr/exercices/chien-tete-en-bas/): Hanches hautes, talons qui cherchent le sol, tu repousses le sol avec les mains, oreilles entre les bras.
 - [Compressions en pike](https://learn.handstandpro.app/fr/exercices/compressions-en-pike/): Au sol, jambes tendues, tu décolles un talon, puis l'autre, puis les deux, et tu les tiens en l'air le temps indiqué.
 - [Décollement des orteils](https://learn.handstandpro.app/fr/exercices/decollement-des-orteils/): Face au mur, tu décolles les orteils en poussant dans les doigts : ton premier vrai équilibre.
 - [Décollement des talons](https://learn.handstandpro.app/fr/exercices/decollement-des-talons/): Dos au mur, talons posés dessus, tu pousses dans les doigts pour les décoller et trouver le point de bascule.
@@ -95,6 +96,8 @@ Every article is free and complete. Nothing is behind an email or an account.
 - [Planche au mur](https://learn.handstandpro.app/fr/exercices/planche-au-mur/): Pieds sur le mur à hauteur de hanches : la première fois que tes épaules portent ton poids au-dessus de la tête.
 - [Pompes scapulaires](https://learn.handstandpro.app/fr/exercices/pompes-scapulaires/): En planche, bras tendus, seules les omoplates bougent : c'est le geste qui fait pousser le sol en handstand.
 - [Pompes sur les doigts](https://learn.handstandpro.app/fr/exercices/pompes-sur-les-doigts/): À genoux, mains au sol, bras tendus, tu décolles la paume en poussant sur les doigts, puis tu redescends lentement.
+- [Pulsations sur les doigts](https://learn.handstandpro.app/fr/exercices/pulsations-sur-les-doigts/): Mains au sol, doigts bien en appui, tu redresses la paume vers la verticale, puis tu redescends, par petits mouvements lents.
+- [Rotations d'épaules au mur](https://learn.handstandpro.app/fr/exercices/rotations-d-epaules-au-mur/): Face au mur, bras levés, une main glisse vers le bas et passe sous le bras opposé, sans quitter le mur.
 - [Rotations sur les poignets](https://learn.handstandpro.app/fr/exercices/rotations-sur-les-poignets/): Mains posées, bras tendus, des cercles de plus en plus grands : la mise en charge progressive des poignets.
 - [Sortie en roue](https://learn.handstandpro.app/fr/exercices/sortie-en-roue/): La sortie que tu utiliseras à chaque tentative sans mur : une main sur le côté, les hanches pivotent.
 - [Sortie groupée du mur](https://learn.handstandpro.app/fr/exercices/sortie-groupee-du-mur/): La façon la plus douce d'apprendre à redescendre, depuis une position groupée contre le mur.
