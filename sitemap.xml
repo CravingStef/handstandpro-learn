@@ -804,7 +804,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -863,8 +863,22 @@
     </video:video>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/cercles-de-bras/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-bras/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/cercles-de-bras/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nz-vSLIGaM4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Cercles de bras</video:title>
+      <video:description>Huit grands cercles vers l'arrière, huit vers l'avant, bras tendus. Les épaules sont prêtes à porter ton poids.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/nz-vSLIGaM4</video:player_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-09-10T23:43:58-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/cercles-de-poignets/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wrist-circles/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/circulos-de-muneca/"/>
@@ -932,7 +946,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/decollement-des-talons/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decollement-des-talons/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/heel-pulls/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/despegue-de-los-talones/"/>
@@ -945,6 +959,20 @@
       <video:player_loc>https://www.youtube.com/embed/fYjz2qNj77g</video:player_loc>
       <video:duration>36</video:duration>
       <video:publication_date>2026-09-16T09:59:03-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/decoller-du-mur/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/decoller-du-mur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/decoller-du-mur/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_WzVkkFEBqA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Décoller du mur</video:title>
+      <video:description>Dos au mur, un pied décolle, tu cherches le point d'équilibre, puis le deuxième pied le rejoint et tu tiens avec les doigts.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/_WzVkkFEBqA</video:player_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-09-17T00:56:05-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -962,6 +990,20 @@
       <video:player_loc>https://www.youtube.com/embed/AuObOwCxgc4</video:player_loc>
       <video:duration>23</video:duration>
       <video:publication_date>2026-09-18T03:00:06-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://learn.handstandpro.app/fr/exercices/enchainement-chat-vache/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/enchainement-chat-vache/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/exercices/enchainement-chat-vache/"/>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5nQXt6i2LGE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Enchaînement chat-vache</video:title>
+      <video:description>À quatre pattes, tu creuses le dos en inspirant et tu l'arrondis en expirant, lentement, pendant quarante secondes.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/5nQXt6i2LGE</video:player_loc>
+      <video:duration>27</video:duration>
+      <video:publication_date>2026-09-10T23:48:46-07:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1306,7 +1348,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-split/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-split/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/split-handstand/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/parada-en-split/"/>
@@ -1374,7 +1416,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-hollow/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-hollow/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/hollow-body-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-hollow/"/>
@@ -1408,7 +1450,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -2012,7 +2054,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -2616,7 +2658,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
