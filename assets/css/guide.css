@@ -1,0 +1,66 @@
+/* Page du guide PDF (non référencée), voir GUIDE dans generate_site.py.
+   Le formulaire reprend celui de l'ancienne liste de handstandpro.app. */
+
+.guide-kicker {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 10px;
+}
+.guide-byline { margin: 26px 0 0; font-size: 14px; color: var(--ink-3); }
+
+.signup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.signup input[type="email"] {
+  flex: 1 1 240px;
+  min-width: 0;
+  padding: 14px 20px;
+  border-radius: 999px;
+  border: 1px solid var(--edge);
+  background: var(--glass);
+  color: var(--ink);
+  font-family: inherit;
+  /* 16 px au minimum : en dessous, Safari sur iPhone zoome à la mise au point. */
+  font-size: 16px;
+  line-height: 1.3;
+}
+.signup input[type="email"]::placeholder { color: var(--ink-3); }
+.signup input[type="email"]:focus-visible {
+  outline: 2px solid var(--a2);
+  outline-offset: 2px;
+  border-color: transparent;
+}
+.signup button {
+  flex: none;
+  padding: 14px 26px;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+  background: linear-gradient(120deg, var(--a1), var(--a2) 55%, var(--a3));
+  box-shadow: 0 10px 30px rgba(226, 70, 153, .35);
+  transition: filter .18s;
+}
+.signup button:hover:not(:disabled) { filter: brightness(1.08); }
+.signup button:disabled { opacity: .6; cursor: default; }
+/* Piège à robots : un champ réel, masqué aux humains et aux lecteurs d'écran. */
+.signup .hp-trap {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.cta .signup-note { font-size: 14px; color: var(--ink-3); margin: 12px 0 0; }
+.signup-msg { margin: 14px 0 0; font-size: 16px; font-weight: 500; }
+.signup-msg:empty { display: none; }
+.signup-msg[data-state="ok"] { color: var(--ink); }
+.signup-msg[data-state="ko"] { color: var(--link); }
