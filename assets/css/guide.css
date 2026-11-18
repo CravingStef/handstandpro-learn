@@ -1,4 +1,4 @@
-/* Page du guide PDF (non référencée), voir GUIDE dans generate_site.py.
+/* Page du guide PDF, voir GUIDE dans generate_site.py.
    Le formulaire reprend celui de l'ancienne liste de handstandpro.app. */
 
 .guide-kicker {
@@ -9,6 +9,8 @@
   color: var(--ink-3);
   margin-bottom: 10px;
 }
+/* Centré, et autant d'espace sous le titre qu'au-dessus : le padding de .cta. */
+.guide .cta-title { text-align: center; margin-bottom: clamp(20px, 4vw, 32px); }
 .guide-byline { margin: 26px 0 0; font-size: 14px; color: var(--ink-3); }
 
 .signup {
