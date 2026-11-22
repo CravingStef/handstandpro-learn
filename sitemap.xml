@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://learn.handstandpro.app/fr/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/"/>
@@ -725,6 +725,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/en/handstand-faq/"/>
   </url>
   <url>
+    <loc>https://learn.handstandpro.app/fr/pike-handstand/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/pike-handstand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learn.handstandpro.app/fr/pike-handstand/"/>
+  </url>
+  <url>
     <loc>https://learn.handstandpro.app/fr/muscles-bienfaits-handstand/</loc>
     <lastmod>2026-10-31</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/muscles-bienfaits-handstand/"/>
@@ -804,7 +810,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -915,7 +921,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/compressions-en-pike/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/compressions-en-pike/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-compressions/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/compresiones-en-pike/"/>
@@ -1102,7 +1108,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/levees-de-jambes-en-pike/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-leg-raises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/elevaciones-de-piernas-en-pike/"/>
@@ -1306,7 +1312,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-pike/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/pike-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike/"/>
@@ -1323,7 +1329,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-au-mur/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/wall-pike-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-contra-la-pared/"/>
@@ -1340,7 +1346,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/tenue-en-pike-surelevee/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/elevated-pike-hold/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/posicion-en-pike-elevada/"/>
@@ -1459,7 +1465,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/en/exercises/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -2114,7 +2120,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/es/ejercicios/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
@@ -2769,7 +2775,7 @@
   </url>
   <url>
     <loc>https://learn.handstandpro.app/pt/exercicios/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://learn.handstandpro.app/fr/exercices/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://learn.handstandpro.app/en/exercises/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://learn.handstandpro.app/es/ejercicios/"/>
